@@ -1,1 +1,1 @@
-# andekster.github.io/cuda
+# https://andekster.github.io/Cuda/
