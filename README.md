@@ -1,1 +1,1 @@
-# Cuda.github.io
+# andekster.github.io/cuda
